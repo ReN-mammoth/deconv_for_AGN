@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# macOS and editors
+.DS_Store
+.vscode/
+.idea/
+
+# Output directories
+results/
+test/
+
+# Generated results
+*_rec_*.fits
+*_partial_*.fits
+*_rmse_summary.txt
+*_hellinger_plot.png
+*_hellinger_history.csv
+*_objective_history.csv
+*.log
+
