@@ -193,3 +193,7 @@ archivePrefix = {arXiv},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
+
+## License
+
+This software is released under the BSD 3-Clause License. See [LICENSE](LICENSE) for details.
